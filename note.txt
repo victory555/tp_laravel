@@ -1,0 +1,8 @@
+-Crée un message d'empty personnaliser 
+-Utiliser les composants pour faire appeler les messages empty
+-CRUD des admins
+-Envoie de mail aux admins en utilisant les notifications pour valider leurs comptes.
+-Mot de passe oublié
+-Modification de mot de passe mode invité.
+Profil 
+-https://www.youtube.com/watch?v=vIF6tdSDXD4
